@@ -123,10 +123,6 @@ db.consultas.deleteOne({ _id: ObjectId("...") })
 ## **📌 Conclusão**  
 Este banco de dados em **MongoDB** resolve os principais problemas de hospitais que usam planilhas, oferecendo **organização, eficiência e análises avançadas**.  
 
-**Dúvidas?** Consulte a documentação do MongoDB ou abra uma *issue* no repositório.  
-
-📌 **Repositório GitHub:** [github.com/IsaiasSorriso/hospital-mongodb](https://github.com/IsaiasSorriso/hospital-mongodb)  
-
 --- 
 
 **🎯 Objetivo do Projeto:**  
